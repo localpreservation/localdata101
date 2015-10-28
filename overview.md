@@ -11,18 +11,22 @@ How to manage:
 - People/Biographies
 - Documents
 
-Tools:
+## Tools
 
-- geojson.io
-- http://dropchop.io/
-- MapBox
-- CartoDB
-- Digital Records Repository
+- [geojson.io](http://geojson.io/)
+- [dropchop.io](http://dropchop.io/)
+- [MapBox](http://mapbox.com)
+- [CartoDB](http://cartodb.com)
+- [Open Historical Map](http://wiki.openstreetmap.org/wiki/Open_Historical_Map)
+- Omeka
 
-Topics:
+## Topics
 
 - How to choose a project?
 - Where to start? How to make progress?
 - Project management for people who don't do project management?
 
 # Who else wants to be involved?
+
+- Eli
+- Jolene
