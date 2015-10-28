@@ -54,6 +54,6 @@ Here are some tools that we are exploring and learning about.
 # Who is working on this?
 
 - [Eli Pousson](http://github.com/elipousson) - [@elipousson](http://twitter.com/elipousson)
-- [Jolene Updike](http://github.com/aeupdike) - [@aeupdike](http://twitter.com/aeupdike)
+- [Jolene Updike](http://github.com/aejolene) - [@aeupdike](http://twitter.com/aejolene)
 
 If you are interested in getting involved, please feel free to fork the repository and add your name to this list. We are working on a set of contributor guidelines for the Local Preservation School to make it easier for anyone to get involved in building this course and others.
