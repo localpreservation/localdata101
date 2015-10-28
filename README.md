@@ -4,10 +4,13 @@ A course for making maps, visualizations, seeing trends and patterns in data abo
 
 - [Local Data 101 Overview](https://github.com/localpreservation/localdata-101/blob/master/overview.md)
 - [About Local Preservation School](http://localpreservation.github.io/about/)
+- [Local Data 101 Trello Board](https://trello.com/b/DsZNP6p2/local-data-101) - (coming soon)
 - Contributor Guidelines (coming soon)
  
-## Timeline
+## Project Timeline
 
-- November 2015: Meet-up in Baltimore
-- February 2015: First draft of course materials
-- April 2015: Testing and feedback
+| Date | Goal |
+|------|------|
+| November 2015     | Meet-up in Baltimore     |
+| February 2015     | First draft of course materials      |
+| April 2015     | Testing and feedback     |
