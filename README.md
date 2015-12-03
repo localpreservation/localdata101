@@ -2,7 +2,7 @@
 
 A course for making maps, visualizations, seeing trends and patterns in data about historic places and the past. Free and easy for beginners!
 
-- [Local Data 101 Overview](https://github.com/localpreservation/localdata-101/blob/master/overview.md)
+- [Local Data 101 Overview](https://github.com/localpreservation/localdata101/blob/master/overview.md)
 - [About Local Preservation School](http://localpreservation.github.io/about/)
 - [Local Data 101 Trello Board](https://trello.com/b/DsZNP6p2/local-data-101) - (coming soon)
 - Contributor Guidelines (coming soon)
