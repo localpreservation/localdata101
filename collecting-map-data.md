@@ -13,6 +13,12 @@ Just to make sure I've got the right idea, you think this first tutorial should 
 
 - [Historical GIS Research Network](http://www.hgis.org.uk/index.htm)
 
+## Examples of map data for historians/preservation
+
+Note: I think this list should be a JSON file or CSV file but I'll start it as a bulletted list.
+
+- [DC Cultural Tourism Heritage Trails](https://github.com/benbalter/dc-maps/blob/master/maps/cultural-tourism-heritage-trail.geojson)
+
 # Tools for working with map data
 
 Database tools
@@ -27,8 +33,14 @@ Adding geodata
 
 Converting data from one format to another format
 
+- [mapshaper](http://www.mapshaper.org/)
 - [toGeoJSON turns KML & GPX into GeoJSON](http://mapbox.github.io/togeojson/)
 - [is that a csv you've got there? want a geojson?](http://mapbox.github.io/csv2geojson/)
+
+Additional tools
+
+- Open Street Map
+- [Open Historical Map](http://www.openhistoricalmap.org/)
 
 # Introduction to map data
 
@@ -41,7 +53,9 @@ How should your data be organized?
 - [Data Management for the Humanities](http://guides.library.ucla.edu/data-management-humanities) – UCLA Library Research Guides
 - [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
 
-How should your data be structured? Consider if there is an open data standard that works for you:
+How should your data be structured?
+
+Consider if there is an open data standard that works for you:
 
 - ...houses? Use the [House Facts standard](http://www.codeforamerica.org/our-work/data-formats/housefacts/)
 - ...archaeological resources? Make it compatible with [Open Context](http://opencontext.org/about/services#geojson-ld)
@@ -55,13 +69,23 @@ See also:
 - [standards for family history](http://www.cyndislist.com/data-standards/)
 - [web schema for historical data](http://historical-data.org/schemas.html)) 
 - [Family History Information Standards Organisation](http://fhiso.org/)
-- [Documenting Events in Metadata](http://www.cidoc-crm.org/docs/fin-paper.pdf)  
+- [Documenting Events in Metadata](http://www.cidoc-crm.org/docs/fin-paper.pdf)
 
-I'm also a bit curious about how preservationists and historians should be using Open Street Map and [Open Historical Map](http://www.openhistoricalmap.org/) as tools for inputting and tracking data about a research topic.
+More about data standards
+
+- [Open Government Data Guide](http://jlord.us/open-data-guide/) - Note: this may be dated but is an engaging resource.
 
 # Collecting new map data
 
-- Mobile Data Collection: [http://schoolofdata.org/courses/#MobileDataCollection](http://schoolofdata.org/courses/#MobileDataCollection)
+- Aerial survey
+- Field survey
+- Transcribing primary sources
+- Coding interviews or oral histories
+- Retracing historical routes of travel
+
+Field survey:
+
+- [School of Data: Mobile Data Collection](http://schoolofdata.org/courses/#MobileDataCollection)
 
 # Finding existing map data
 
@@ -71,3 +95,7 @@ Sources for additional map data
 - [Datahub](https://datahub.io/)
 - [United States Cities Open Data Census](http://us-city.census.okfn.org/)
 - [Open Data Index](http://index.okfn.org/)
+
+Sharing your map data
+
+- [Open Knowledge Data Packager](http://datapackager.okfn.org/) - The Data Packager is a web app for creating and publishing Tabular Data Packages.
