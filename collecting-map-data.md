@@ -15,7 +15,11 @@ Just to make sure I've got the right idea, you think this first tutorial should 
 
 ## Examples of map data for historians/preservation
 
-Note: I think this list should be a JSON file or CSV file but I'll start it as a bulletted list.
+Sources:
+
+- [Awesome Data Repositories/Services for Historians - Local Preservation School](https://docs.google.com/spreadsheets/d/1tMRUopAWd_GWZnry_k7DzanrPVHPJzPfyNCF4HFOVi8/edit?usp=sharing) (Google Sheet - open for comments)
+
+Specific examples:
 
 - [DC Cultural Tourism Heritage Trails](https://github.com/benbalter/dc-maps/blob/master/maps/cultural-tourism-heritage-trail.geojson)
 
@@ -44,7 +48,13 @@ Additional tools
 
 # Introduction to map data
 
-- A Gentle Introduction to Mapping: [http://schoolofdata.org/courses/#GentleIntroMapping](http://schoolofdata.org/courses/#GentleIntroMapping)
+- [School of Data: A Gentle Introduction to Mapping](http://schoolofdata.org/courses/#GentleIntroMapping)
+
+**What is Open Data?**
+
+>Open data is data that can be freely used, reused and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike.
+
+So you want to publish some open data? [Simple Open Data](http://simpleopendata.com/) has helpful hints to make it simple and effective.
 
 # Organizing map data
 
